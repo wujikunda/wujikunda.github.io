@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "wujikunda.github.io",
-      "script": "start.js",
+      "name": "wujikunda",
+      "script": "app.js",
       "env": {
         "COMMON_VARIABLE": "true"
       },

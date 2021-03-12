@@ -1,4 +1,13 @@
 {
+  "name": "wujikunda.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:leonhardt_431/wujikunda.github.io.git",
+  "author": "wjk <wujikunda@126.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "pm2 deploy ecosystem.json production"
+  },
   "dependencies": {
     "express": "^4.16.3"
   }
